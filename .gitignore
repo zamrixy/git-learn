@@ -1,0 +1,7 @@
+### Python resources
+# Byte-compiled / optimized / Dll files
+__pycache__/
+*.py[cod]
+docker-compose.yaml
+log/
+resources/products.json
