@@ -1,3 +1,5 @@
 print("Hello, World")
 
-print()
+print('Some string')
+
+
